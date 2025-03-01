@@ -22,7 +22,7 @@ Jenkins status
 
 ![Alt text](IMG-SCREENSHOTS/Screenshot_20230126_233843.png)
 
-remember jenkins run on port 8080 so I created and inbound rule it in my EC2 instance the view it on my browser and aso copied the defaul password for jenkins
+remember jenkins runs on port 8080 so I created an inbound rule on my EC2 instance in other to access (view) it on my browser and also copied the default password for jenkins
 ![Alt text](IMG-SCREENSHOTS/Screenshot_20230126_233953.png)
 
 ![Alt text](IMG-SCREENSHOTS/Screenshot_20230126_234008.png)
