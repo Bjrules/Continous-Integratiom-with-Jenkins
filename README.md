@@ -88,8 +88,8 @@ Build artifact over SSH
 
 ![Alt text](IMG-SCREENSHOTS/Screenshot_20230203_013123.png)
 
-Wow! it works like magic automatically updated my NFS-SERVER and a chaim reaction effect on my webserver.
-And so DevOps becam more interesting.
+Wow! it works like magic automatically updated my NFS-SERVER and a chain reaction effect on my webserver.
+And so DevOps became even more interesting. this is the techniques for software automated release
 Thanks Darey.io
 
 
