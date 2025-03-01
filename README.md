@@ -62,7 +62,7 @@ Manual building
 
 ![Alt text](IMG-SCREENSHOTS/Screenshot_20230129_115639.png)
 
-Installing the  'PUSH OVER SSH' plugin to enable the automation process
+Installing the  'PUBLISH OVER SSH' plugin to enable the automation process
 ![Alt text](IMG-SCREENSHOTS/Screenshot_20230129_115639.png)
 
 ![Alt text](IMG-SCREENSHOTS/Screenshot_20230129_115656.png)
